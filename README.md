@@ -1,5 +1,9 @@
 # Criptografia Simples com Progressões e Séries
 
+# Integrantes 
+Kaique Vieira Santos 
+João Vitor Silva 
+
 ## O que é o projeto
 
 Programa em C que criptografa uma palavra usando duas camadas:
